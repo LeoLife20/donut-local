@@ -39,7 +39,14 @@ NOTICE.md                          许可与第三方说明
 
 **A. 直接用打包好的 App（macOS arm64）**
 
-解压 `DonutLocal-0.33.0-local-arm64.zip`，得到 `Donut Local.app`：
+Release 里的 `DonutLocal-0.33.0-local-arm64.zip` 按 8 MB 分片（上传通道限制），先合并：
+
+```bash
+cat app.part-* > DonutLocal-0.33.0-local-arm64.zip
+unzip DonutLocal-0.33.0-local-arm64.zip
+```
+
+合并后的 SHA-256 见 `SHA256SUMS`。然后去隔离并启动：
 
 ```bash
 xattr -dr com.apple.quarantine "Donut Local.app"   # 去隔离，否则 Gatekeeper 拦截
