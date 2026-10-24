@@ -1,0 +1,6 @@
+fleet/profiles/
+fleet/registry.jsonl
+fleet/audit.jsonl
+__pycache__/
+*.pyc
+.DS_Store

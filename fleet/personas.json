@@ -1,0 +1,2624 @@
+[
+  {
+    "persona_id": "mba-1440x900",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookAir10,1",
+      "cpu": "Apple M1",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M1",
+      "screen": [
+        1440,
+        900
+      ],
+      "avail": [
+        1440,
+        870
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-1280x800",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookAir10,1",
+      "cpu": "Apple M1",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M1",
+      "screen": [
+        1280,
+        800
+      ],
+      "avail": [
+        1280,
+        775
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-1680x1050",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookAir10,1",
+      "cpu": "Apple M1",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M1",
+      "screen": [
+        1680,
+        1050
+      ],
+      "avail": [
+        1680,
+        1020
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookAir10,1",
+      "cpu": "Apple M1",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M1",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "imac-m1-2240x1260",
+    "os": "macos",
+    "hardware": {
+      "model": "iMac21,1",
+      "cpu": "Apple M1",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M1",
+      "screen": [
+        2240,
+        1260
+      ],
+      "avail": [
+        2240,
+        1230
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,3",
+      "cpu": "Apple M1 Pro",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Pro",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-1352x878",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,3",
+      "cpu": "Apple M1 Pro",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Pro",
+      "screen": [
+        1352,
+        878
+      ],
+      "avail": [
+        1352,
+        853
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,3",
+      "cpu": "Apple M1 Pro",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Pro",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,3",
+      "cpu": "Apple M1 Pro",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Pro",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,3",
+      "cpu": "Apple M1 Pro",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Pro",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,2",
+      "cpu": "Apple M1 Max",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Max",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,2",
+      "cpu": "Apple M1 Max",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Max",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,2",
+      "cpu": "Apple M1 Max",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Max",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "MacBookPro18,2",
+      "cpu": "Apple M1 Max",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M1 Max",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-m2-1470x956",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,2",
+      "cpu": "Apple M2",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M2",
+      "screen": [
+        1470,
+        956
+      ],
+      "avail": [
+        1470,
+        926
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-m2-1280x832",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,2",
+      "cpu": "Apple M2",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M2",
+      "screen": [
+        1280,
+        832
+      ],
+      "avail": [
+        1280,
+        807
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-m2-1710x1112",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,2",
+      "cpu": "Apple M2",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M2",
+      "screen": [
+        1710,
+        1112
+      ],
+      "avail": [
+        1710,
+        1082
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-m2-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,2",
+      "cpu": "Apple M2",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M2",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mba-m2-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,2",
+      "cpu": "Apple M2",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M2",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m2pro-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,9",
+      "cpu": "Apple M2 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Pro",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m2pro-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,9",
+      "cpu": "Apple M2 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Pro",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m2pro-1352x878",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,9",
+      "cpu": "Apple M2 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Pro",
+      "screen": [
+        1352,
+        878
+      ],
+      "avail": [
+        1352,
+        853
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m2pro-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,9",
+      "cpu": "Apple M2 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Pro",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m2pro-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,9",
+      "cpu": "Apple M2 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Pro",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m2max-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,10",
+      "cpu": "Apple M2 Max",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Max",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m2max-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,10",
+      "cpu": "Apple M2 Max",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Max",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m2max-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,10",
+      "cpu": "Apple M2 Max",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Max",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m2max-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac14,10",
+      "cpu": "Apple M2 Max",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M2 Max",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,3",
+      "cpu": "Apple M3",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M3",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3-1470x956",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,3",
+      "cpu": "Apple M3",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M3",
+      "screen": [
+        1470,
+        956
+      ],
+      "avail": [
+        1470,
+        926
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3-1710x1112",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,3",
+      "cpu": "Apple M3",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M3",
+      "screen": [
+        1710,
+        1112
+      ],
+      "avail": [
+        1710,
+        1082
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3-1280x832",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,3",
+      "cpu": "Apple M3",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M3",
+      "screen": [
+        1280,
+        832
+      ],
+      "avail": [
+        1280,
+        807
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,3",
+      "cpu": "Apple M3",
+      "threads": 8,
+      "ram_gb": 16,
+      "gpu": "Apple M3",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3pro-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,6",
+      "cpu": "Apple M3 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Pro",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3pro-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,6",
+      "cpu": "Apple M3 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Pro",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3pro-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,6",
+      "cpu": "Apple M3 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Pro",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3pro-1352x878",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,6",
+      "cpu": "Apple M3 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Pro",
+      "screen": [
+        1352,
+        878
+      ],
+      "avail": [
+        1352,
+        853
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m3pro-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,6",
+      "cpu": "Apple M3 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Pro",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m3max-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,8",
+      "cpu": "Apple M3 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Max",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m3max-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,8",
+      "cpu": "Apple M3 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Max",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m3max-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,8",
+      "cpu": "Apple M3 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Max",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m3max-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac15,8",
+      "cpu": "Apple M3 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M3 Max",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M3 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mini-m4-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,10",
+      "cpu": "Apple M4",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M4",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mini-m4-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,10",
+      "cpu": "Apple M4",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M4",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mini-m4-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,10",
+      "cpu": "Apple M4",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M4",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mini-m4-1470x956",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,10",
+      "cpu": "Apple M4",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M4",
+      "screen": [
+        1470,
+        956
+      ],
+      "avail": [
+        1470,
+        926
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mini-m4-1710x1112",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,10",
+      "cpu": "Apple M4",
+      "threads": 10,
+      "ram_gb": 16,
+      "gpu": "Apple M4",
+      "screen": [
+        1710,
+        1112
+      ],
+      "avail": [
+        1710,
+        1082
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m4pro-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,6",
+      "cpu": "Apple M4 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Pro",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m4pro-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,6",
+      "cpu": "Apple M4 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Pro",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m4pro-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,6",
+      "cpu": "Apple M4 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Pro",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m4pro-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,6",
+      "cpu": "Apple M4 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Pro",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp14-m4pro-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,6",
+      "cpu": "Apple M4 Pro",
+      "threads": 12,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Pro",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Pro, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m4max-1728x1117",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,8",
+      "cpu": "Apple M4 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Max",
+      "screen": [
+        1728,
+        1117
+      ],
+      "avail": [
+        1728,
+        1087
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m4max-2056x1329",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,8",
+      "cpu": "Apple M4 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Max",
+      "screen": [
+        2056,
+        1329
+      ],
+      "avail": [
+        2056,
+        1299
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m4max-1512x982",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,8",
+      "cpu": "Apple M4 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Max",
+      "screen": [
+        1512,
+        982
+      ],
+      "avail": [
+        1512,
+        952
+      ],
+      "color_depth": 30,
+      "dpr": 2
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m4max-2560x1440",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,8",
+      "cpu": "Apple M4 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Max",
+      "screen": [
+        2560,
+        1440
+      ],
+      "avail": [
+        2560,
+        1410
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  },
+  {
+    "persona_id": "mbp16-m4max-1920x1080",
+    "os": "macos",
+    "hardware": {
+      "model": "Mac16,8",
+      "cpu": "Apple M4 Max",
+      "threads": 16,
+      "ram_gb": 16,
+      "gpu": "Apple M4 Max",
+      "screen": [
+        1920,
+        1080
+      ],
+      "avail": [
+        1920,
+        1050
+      ],
+      "color_depth": 24,
+      "dpr": 1
+    },
+    "browser": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+      "platform": "MacIntel",
+      "platform_version": "26.6.2"
+    },
+    "webgl": {
+      "vendor": "Google Inc. (Apple)",
+      "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M4 Max, Unspecified Version)"
+    },
+    "fonts": [
+      "Arial",
+      "Arial Black",
+      "Courier New",
+      "Georgia",
+      "Impact",
+      "Tahoma",
+      "Times New Roman",
+      "Trebuchet MS",
+      "Verdana",
+      "Helvetica",
+      "Helvetica Neue",
+      "Menlo",
+      "Monaco"
+    ],
+    "do_not_track": "unspecified"
+  }
+]
